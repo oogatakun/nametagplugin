@@ -1,1 +1,5 @@
 # nametagplugin
+
+コマンド
+
+/nametag
